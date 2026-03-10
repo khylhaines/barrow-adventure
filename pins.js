@@ -879,8 +879,17 @@ export const PINS = [
     i: "🔥",
     zone: "Residential",
     ar: { hint: "Scan around and confirm.", bearing: 0, tol: 180 },
-  }, 
+  },
+   {
+    id: 105,
+    n: "tinas house",
+    l: [54.116595,-3.234497],
+    i: "🔥",
+    zone: "Residential",
+    ar: { hint: "Scan around and confirm.", bearing: 0, tol: 180 },
+  },
 ];
+
 
 
 
