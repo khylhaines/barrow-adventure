@@ -875,11 +875,12 @@ export const PINS = [
   {
     id: 104,
     n: "dads house",
-    l: [54.117199,-3.232276],
+    l: [54.110114,-3.222390],
     i: "🔥",
     zone: "Residential",
     ar: { hint: "Scan around and confirm.", bearing: 0, tol: 180 },
   }, 
 ];
+
 
 
